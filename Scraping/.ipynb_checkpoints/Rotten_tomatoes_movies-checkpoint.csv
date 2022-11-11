@@ -1,0 +1,141 @@
+,movie_name,year,rate,cast,director
+0,Running Scared,1986,59%,"Gregory Hines, Billy Crystal, Jimmy Smits, Steven Bauer",Peter Hyams
+1,Equilibrium,2002,40%,"Christian Bale, Emily Watson, Taye Diggs, Angus Macfadyen",Kurt Wimmer
+2,Hero,2002,94%,"Jet Li, Tony Leung Chiu Wai, Maggie Cheung Man-yuk, Donnie Yen",Zhang Yimou
+3,Road House,1989,39%,"Patrick Swayze, Kelly Lynch, Sam Elliott, Ben Gazzara",Rowdy Herrington
+4,Unstoppable,2010,87%,"Denzel Washington, Chris Pine, Rosario Dawson, Kevin Dunn",Tony Scott
+5,Shaft,1971,87%,"Richard Roundtree, Moses Gunn, Christopher St. John, Charles Cioffi",Gordon Parks
+6,The Villainess,2017,85%,"Kim Ok-bin, Shin Ha-kyun, Sung-joon, Kim Seo-hyung",Jeong Byeong-gil
+7,Highlander,1986,70%,"Christopher Lambert, Sean Connery, Roxanne Hart, Clancy Brown",Russell Mulcahy
+8,Die Hard 2,1990,69%,"Bruce Willis, Bonnie Bedelia, William Atherton, Reginald VelJohnson",Renny Harlin
+9,National Treasure,2004,46%,"Nicolas Cage, Diane Kruger, Justin Bartha, Sean Bean",Jon Turteltaub
+10,The Protector,2005,53%,"Tony Jaa, Johnny Nguyen, Nathan Jones, Petchtai Wongkamlao",Prachya Pinkaew
+11,Revenge,2017,93%,"Matilda Lutz, Kevin Janssens, Vincent Colombe, Guillaume Bouchède",Coralie Fargeat
+12,El Mariachi,1992,91%,"Carlos Gallardo, Consuelo Gómez, Reinol Martinez, Peter Marquardt",Robert Rodriguez
+13,A Touch of Zen,1971,97%,"Feng Hsu, Chun Shih, Pai Ying, Roy Chiao",King Hu
+14,Top Gun,1986,58%,"Tom Cruise, Kelly McGillis, Anthony Edwards, Val Kilmer",Tony Scott
+15,Con Air,1997,58%,"Nicolas Cage, John Cusack, John Malkovich, Steve Buscemi",Simon West
+16,The Expendables 2,2012,67%,"Sylvester Stallone, Jason Statham, Jet Li, Dolph Lundgren",Simon West
+17,The Mummy,1999,61%,"Brendan Fraser, Rachel Weisz, John Hannah, Arnold Vosloo",Stephen Sommers
+18,Mr. & Mrs. Smith,2005,59%,"Brad Pitt, Angelina Jolie, Vince Vaughn, Adam Brody",Doug Liman
+19,Rush Hour,1998,61%,"Jackie Chan, Chris Tucker, Tom Wilkinson, Elizabeth Peña",Brett Ratner
+20,The Equalizer,2014,60%,"Denzel Washington, Marton Csokas, Chloë Grace Moretz, David Harbour",Antoine Fuqua
+21,Captain America: Civil War,2016,90%,"Chris Evans, Robert Downey Jr., Scarlett Johansson, Sebastian Stan","Anthony Russo, Joe Russo"
+22,Air Force One,1997,79%,"Harrison Ford, Gary Oldman, Glenn Close, Wendy Crewson",Wolfgang Petersen
+23,Bloodsport,1988,46%,"Jean-Claude Van Damme, Donald Gibb, Leah Ayres, Norman Burton",Newt Arnold
+24,Blade,1998,57%,"Wesley Snipes, Stephen Dorff, Kris Kristofferson, N'Bushe Wright",Stephen Norrington
+25,Bad Boys,1995,42%,"Martin Lawrence, Will Smith, Tea Leoni, Tcheky Karyo",Michael Bay
+26,Die Hard With a Vengeance,1995,59%,"Bruce Willis, Jeremy Irons, Samuel L. Jackson, Graham Greene",John McTiernan
+27,The Running Man,1987,67%,"Arnold Schwarzenegger, Maria Conchita Alonso, Richard Dawson, Yaphet Kotto",Paul Michael Glaser
+28,Code of Silence,1985,70%,"Chuck Norris, Henry Silva, Bert Remsen, Mike Genovese",Andrew Davis
+29,Shoot 'Em Up,2007,67%,"Clive Owen, Paul Giamatti, Monica Bellucci, Daniel Pilon",Michael Davis
+30,Crank,2006,62%,"Jason Statham, Amy Smart, Jose Pablo Cantillo, Efren Ramirez","Mark Neveldine, Brian Taylor"
+31,Machete,2010,71%,"Danny Trejo, Robert De Niro, Jessica Alba, Steven Seagal","Robert Rodriguez, Ethan Maniquis"
+32,Drive,2011,93%,"Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks",Nicolas Winding Refn
+33,Batman,1989,73%,"Jack Nicholson, Michael Keaton, Kim Basinger, Robert Wuhl",Tim Burton
+34,Under Siege,1992,79%,"Steven Seagal, Tommy Lee Jones, Gary Busey, Erika Eleniak",Andrew Davis
+35,Independence Day,1996,67%,"Will Smith, Bill Pullman, Jeff Goldblum, Mary McDonnell",Roland Emmerich
+36,Bullitt,1968,98%,"Steve McQueen, Robert Vaughn, Jacqueline Bisset, Don Gordon",Peter Yates
+37,Wanted,2008,71%,"James McAvoy, Morgan Freeman, Angelina Jolie, Terence Stamp",Timur Bekmambetov
+38,Superman: The Movie,1978,93%,"Christopher Reeve, Gene Hackman, Marlon Brando, Margot Kidder",Richard Donner
+39,Ronin,1998,69%,"Robert De Niro, Jean Reno, Natascha McElhone, Stellan Skarsgard",John Frankenheimer
+40,They Live,1988,85%,"Roddy Piper, Keith David, Meg Foster, George ""Buck"" Flower",John Carpenter
+41,Cliffhanger,1993,67%,"Sylvester Stallone, John Lithgow, Michael Rooker, Janine Turner",Renny Harlin
+42,Marvel's the Avengers,2012,91%,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth",Joss Whedon
+43,Hot Fuzz,2007,91%,"Simon Pegg, Nick Frost, Jim Broadbent, Paddy Considine",Edgar Wright
+44,The Warriors,1979,88%,"Michael Beck, James Remar, Dorsey Wright, Brian Tyler",Walter Hill
+45,Starship Troopers,1997,67%,"Casper Van Dien, Dina Meyer, Denise Richards, Jake Busey",Paul Verhoeven
+46,Elite Squad 2,2010,91%,"Wagner Moura, Irandhir Santos, André Ramiro, Pedro Van-Held",José Padilha
+47,Point Break,1991,70%,"Patrick Swayze, Keanu Reeves, Gary Busey, Lori Petty",Kathryn Bigelow
+48,The Long Kiss Goodnight,1996,68%,"Geena Davis, Samuel L. Jackson, Patrick Malahide, Craig Bierko",Renny Harlin
+49,The Guest,2014,92%,"Dan Stevens, Maika Monroe, Leland Orser, Sheila Kelley",Adam Wingard
+50,Taken,2008,59%,"Liam Neeson, Maggie Grace, Famke Janssen, Leland Orser",Pierre Morel
+51,300,2006,61%,"Gerard Butler, Lena Headey, David Wenham, Dominic West",Zack Snyder
+52,True Lies,1994,70%,"Arnold Schwarzenegger, Jamie Lee Curtis, Tom Arnold, Bill Paxton",James Cameron
+53,Demolition Man,1993,62%,"Sylvester Stallone, Wesley Snipes, Sandra Bullock, Nigel Hawthorne",Marco Brambilla
+54,Hardcore Henry,2015,51%,"Sharlto Copley, Danila Kozlovsky, Haley Bennett, Dasha Charusha",Ilya Naishuller
+55,Police Story,1985,93%,"Jackie Chan, Brigitte Lin, Maggie Cheung, Bill Tung","Jackie Chan, Chi-Hwa Chen"
+56,Brotherhood of the Wolf,2001,73%,"Samuel Le Bihan, Mark Dacascos, Émilie Dequenne, Vincent Cassel",Christophe Gans
+57,Kingsman: The Secret Service,2014,75%,"Colin Firth, Michael Caine, Taron Egerton, Samuel L. Jackson",Matthew Vaughn
+58,The Fifth Element,1997,71%,"Bruce Willis, Gary Oldman, Ian Holm, Milla Jovovich",Luc Besson
+59,Big Trouble in Little China,1986,75%,"Kurt Russell, Kim Cattrall, Dennis Dun, James Hong",John Carpenter
+60,Atomic Blonde,2017,79%,"Charlize Theron, James McAvoy, Eddie Marsan, John Goodman",David Leitch
+61,Rumble in the Bronx,1995,80%,"Jackie Chan, Anita Mui, Bill Tung, Françoise Yip",Stanley Tong
+62,District B13,2004,80%,"Cyril Raffaelli, David Belle, Tony D'Amario, Larbi Naceri",Pierre Morel
+63,Beverly Hills Cop,1984,83%,"Eddie Murphy, Judge Reinhold, John Ashton, Lisa Eilbacher",Martin Brest
+64,Ong-Bak: The Thai Warrior,2003,85%,"Tony Jaa, Pumwaree Yodkamol, Petchtai Wongkamlao, Suchao Pongwilai",Prachya Pinkaew
+65,Collateral,2004,86%,"Tom Cruise, Jamie Foxx, Jada Pinkett Smith, Mark Ruffalo",Michael Mann
+66,Iron Monkey,1993,91%,"Rongguang Yu, Donnie Yen, Sze-Man Tsang, Jean Wang",Woo-Ping Yuen
+67,Escape From New York,1981,86%,"Kurt Russell, Ernest Borgnine, Adrienne Barbeau, Lee Van Cleef",John Carpenter
+68,Battle Royale,2000,88%,"Tatsuya Fujiwara, Aki Maeda, Taro Yamamoto, Masanobu Andô",Kinji Fukasaku
+69,Spider-Man 2,2004,93%,"Tobey Maguire, Kirsten Dunst, James Franco, Alfred Molina",Sam Raimi
+70,13 Assassins,2010,95%,"Koji Yakusho, Takayuki Yamada, Yusuke Iseya, Goro Inagaki",Takashi Miike
+71,Full Contact,1992,89%,"Chow Yun-Fat, Simon Yam, Bonnie Fu, Wong Chow-Sang",Ringo Lam
+72,Indiana Jones and the Last Crusade,1989,88%,"Harrison Ford, Sean Connery, Denholm Elliott, Alison Doody",Steven Spielberg
+73,Kung Fu Hustle,2004,90%,"Stephen Chow, Yuen Wah, Yuen Qiu, Siu-Lung Leung",Stephen Chow
+74,A Better Tomorrow,1986,93%,"Ti Lung, Chow Yun-Fat, Leslie Cheung, Emily Chu",John Woo
+75,Iron Man,2008,94%,"Robert Downey Jr., Terrence Howard, Gwyneth Paltrow, Jeff Bridges",Jon Favreau
+76,The Night Comes for Us,2018,91%,"Joe Taslim, Iko Uwais, Julie Estelle, Sunny Pang",Timo Tjahjanto
+77,Logan,2017,94%,"Hugh Jackman, Patrick Stewart, Dafne Keen, Richard E. Grant",James Mangold
+78,Goldfinger,1964,99%,"Sean Connery, Gert Frobe, Honor Blackman, Shirley Eaton",Guy Hamilton
+79,Assault on Precinct 13,1976,96%,"Austin Stoker, Darwin Joston, Laurie Zimmer, Martin West",John Carpenter
+80,Wonder Woman,2017,93%,"Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright",Patty Jenkins
+81,The Chinese Connection,1972,83%,"Bruce Lee, Miao Ker Hsiu, James Tien, Robert Baker",Lo Wei
+82,Captain America: The Winter Soldier,2014,90%,"Chris Evans, Scarlett Johansson, Samuel L. Jackson, Sebastian Stan","Anthony Russo, Joe Russo"
+83,Oldboy,2003,82%,"Choi Min-sik, Yoo Ji-tae, Kang Hye-jung, Ji Dae-han",Park Chan-wook
+84,The French Connection,1971,96%,"Gene Hackman, Fernando Rey, Roy Scheider, Tony Lo Bianco",William Friedkin
+85,Furious 7,2015,81%,"Vin Diesel, Paul Walker, Dwayne Johnson, Michelle Rodriguez",James Wan
+86,La Femme Nikita,1990,89%,"Anne Parillaud, Jean-Hugues Anglade, Tcheky Karyo, Jeanne Moreau",Luc Besson
+87,Supercop,1992,92%,"Jackie Chan, Michelle Yeaoh, Maggie Cheung, Ken Tsang",Stanley Tong
+88,Dirty Harry,1971,89%,"Clint Eastwood, Harry Guardino, Reni Santoni, John Larch",Don Siegel
+89,Edge of Tomorrow,2014,91%,"Tom Cruise, Emily Blunt, Brendan Gleeson, Bill Paxton",Doug Liman
+90,X2,2003,85%,"Patrick Stewart, Hugh Jackman, Ian McKellen, Halle Berry",Bryan Singer
+91,The Fugitive,1993,96%,"Harrison Ford, Tommy Lee Jones, Sela Ward, Julianne Moore",Andrew Davis
+92,Black Panther,2018,96%,"Chadwick Boseman, Michael B. Jordan, Lupita Nyong'o, Danai Gurira",Ryan Coogler
+93,Inception,2010,87%,"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy",Christopher Nolan
+94,Braveheart,1995,75%,"Mel Gibson, Sophie Marceau, Patrick McGoohan, Catherine McCormack",Mel Gibson
+95,Minority Report,2002,90%,"Tom Cruise, Colin Farrell, Samantha Morton, Max von Sydow",Steven Spielberg
+96,Avengers: Endgame,2019,94%,"Robert Downey Jr., Chris Evans, Mark Ruffalo, Chris Hemsworth","Anthony Russo, Joe Russo"
+97,Dredd,2012,79%,"Karl Urban, Olivia Thirlby, Lena Headey, Wood Harris",Pete Travis
+98,The Bourne Identity,2002,84%,"Matt Damon, Franka Potente, Chris Cooper, Clive Owen",Doug Liman
+99,Ip Man,2008,86%,"Donnie Yen, Simon Yam, Siu-wong Fan, Ka Tung Lam",Wilson Yip
+100,Face/Off,1997,92%,"John Travolta, Nicolas Cage, Joan Allen, Alessandro Nivola",John Woo
+101,To Live and Die in L.A.,1985,85%,"William L. Petersen, Willem Dafoe, John Pankow, Debra Feuer",William Friedkin
+102,The Dark Knight,2008,94%,"Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",Christopher Nolan
+103,Mission: Impossible -- Ghost Protocol,2011,93%,"Tom Cruise, Jeremy Renner, Simon Pegg, Paula Patton",Brad Bird
+104,Fast Five,2011,78%,"Vin Diesel, Paul Walker, Jordana Brewster, Tyrese Gibson",Justin Lin
+105,Lethal Weapon,1987,80%,"Mel Gibson, Danny Glover, Gary Busey, Mitchell Ryan",Richard Donner
+106,The Rock,1996,68%,"Sean Connery, Nicolas Cage, Ed Harris, Michael Biehn",Michael Bay
+107,RoboCop,1987,91%,"Peter Weller, Nancy Allen, Ronny Cox, Daniel O'Herlihy",Paul Verhoeven
+108,John Wick: Chapter 2,2017,89%,"Keanu Reeves, Common, Laurence Fishburne, Riccardo Scamarcio",Chad Stahelski
+109,Casino Royale,2006,94%,"Daniel Craig, Eva Green, Mads Mikkelsen, Judi Dench",Martin Campbell
+110,Baby Driver,2017,92%,"Ansel Elgort, Kevin Spacey, Lily James, Jon Bernthal",Edgar Wright
+111,Fist of Legend,1994,100%,"Jet Li, Chin Siu Ho, Billy Chow, Yasuaki Kurata",Gordon Chan
+112,The Killer,1989,98%,"Chow Yun-Fat, Danny Lee, Sally Yeh, Kenneth Tsang",John Woo
+113,The Raid 2,2014,82%,"Iko Uwais, Yayan Ruhian, Arifin Putra, Oka Antara",Gareth Evans
+114,Enter the Dragon,1973,95%,"Bruce Lee, John Saxon, Jim Kelly, Ahna Capri",Robert Clouse
+115,Commando,1985,67%,"Arnold Schwarzenegger, Rae Dawn Chong, Dan Hedaya, Vernon Wells",Mark L. Lester
+116,First Blood,1982,86%,"Sylvester Stallone, Richard Crenna, Brian Dennehy, David Caruso",Ted Kotcheff
+117,Mission: Impossible Rogue Nation,2015,94%,"Tom Cruise, Jeremy Renner, Simon Pegg, Rebecca Ferguson",Christopher McQuarrie
+118,The Terminator,1984,100%,"Arnold Schwarzenegger, Linda Hamilton, Michael Biehn, Paul Winfield",James Cameron
+119,Gladiator,2000,79%,"Russell Crowe, Joaquin Phoenix, Connie Nielsen, Oliver Reed",Ridley Scott
+120,Kill Bill: Vol. 1,2003,85%,"Uma Thurman, Lucy Liu, Vivica A. Fox, Michael Madsen",Quentin Tarantino
+121,The Professional,1994,74%,"Jean Reno, Gary Oldman, Natalie Portman, Danny Aiello",Luc Besson
+122,Speed,1994,94%,"Keanu Reeves, Dennis Hopper, Sandra Bullock, Joe Morton",Jan de Bont
+123,Drunken Master II,1994,84%,"Jackie Chan, Ti Lung, Anita Mui, Kar-leung Lau",Chia-Liang Liu
+124,John Wick,2014,86%,"Keanu Reeves, Michael Nyqvist, Alfie Allen, Willem Dafoe",Chad Stahelski
+125,"Crouching Tiger, Hidden Dragon",2000,97%,"Chow Yun-Fat, Michelle Yeoh, Zhang Ziyi, Chen Chang",Ang Lee
+126,Predator,1987,80%,"Arnold Schwarzenegger, Carl Weathers, Jesse Ventura, Elpidia Carrillo",John McTiernan
+127,The Bourne Ultimatum,2007,92%,"Matt Damon, Julia Stiles, Joan Allen, David Strathairn",Paul Greengrass
+128,Total Recall,1990,83%,"Arnold Schwarzenegger, Rachel Ticotin, Sharon Stone, Ronny Cox",Paul Verhoeven
+129,Mad Max 2: The Road Warrior,1981,94%,"Mel Gibson, Bruce Spence, Emil Minty, Vernon Wells",George Miller
+130,Heat,1995,88%,"Al Pacino, Robert De Niro, Val Kilmer, Jon Voight",Michael Mann
+131,The Raid: Redemption,2011,87%,"Iko Uwais, Joe Taslim, Doni Alamsyah, Yayan Ruhian",Gareth Huw Evans
+132,Mission: Impossible -- Fallout,2018,97%,"Tom Cruise, Henry Cavill, Ving Rhames, Simon Pegg",Christopher McQuarrie
+133,Raiders of the Lost Ark,1981,96%,"Harrison Ford, Karen Allen, Paul Freeman, Wolf Kahler",Steven Spielberg
+134,Aliens,1986,98%,"Sigourney Weaver, Carrie Henn, Michael Biehn, Paul Reiser",James Cameron
+135,Hard-Boiled,1992,94%,"Chow Yun-Fat, Bowie Lam, Philip Chan, Tony Leung Chiu Wai",John Woo
+136,The Matrix,1999,88%,"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving","Andy Wachowski, Larry Wachowski"
+137,Terminator 2: Judgment Day,1991,93%,"Arnold Schwarzenegger, Linda Hamilton, Edward Furlong, Robert Patrick",James Cameron
+138,Die Hard,1988,94%,"Bruce Willis, Alan Rickman, Bonnie Bedelia, Reginald VelJohnson",John McTiernan
+139,Mad Max: Fury Road,2015,97%,"Tom Hardy, Charlize Theron, Nicholas Hoult, Hugh Keays-Byrne",George Miller
